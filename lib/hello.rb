@@ -7,7 +7,7 @@ def hello_t(array)
    end 
   array
  else
-   puts "Hey"
+   puts "Hey! no blocks was given"
 end
 
 # call your method here!
