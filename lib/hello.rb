@@ -7,7 +7,7 @@ def hello_t(array)
    end 
   array
  else
-   puts Hey 
+   puts "Hey"
 end
 
 # call your method here!
