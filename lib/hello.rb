@@ -9,7 +9,7 @@ def hello_t(array)
  else
    puts "Hey! no blocks was given"
 end
-
+end 
 # call your method here!
 hello_t( ["Tim","Tom","Jim"] ) do |name|
   if name.start_with?("T")
